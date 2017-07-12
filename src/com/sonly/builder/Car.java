@@ -42,7 +42,7 @@ public class Car {
 	
 	@Override
 	public String toString() {
-		return "AirShip{" +
+		return "Car{" +
                 "engine=" + engine +
                 ", tyre=" + tyre +
                 ", seat=" + seat +
