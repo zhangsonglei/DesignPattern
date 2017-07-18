@@ -1,7 +1,5 @@
 package com.sonly.proxy.dynamicproxy;
 
-import static org.junit.Assert.*;
-
 import java.lang.reflect.Proxy;
 
 import org.junit.Test;
